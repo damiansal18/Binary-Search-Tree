@@ -1,0 +1,24 @@
+ 4 inserted into tree.
+ 2 inserted into tree.
+ 5 inserted into tree.
+ 3 inserted into tree.
+ 12 inserted into tree.
+ 6 inserted into tree.
+ 26 inserted into tree.
+ 81 inserted into tree.
+ 13 inserted into tree.
+ 1 inserted into tree.
+ Tree preorder:  4 2 1 3 5 12 6 26 13 81
+ Tree inorder:  1 2 3 4 5 6 12 13 26 81
+ Tree postorder:  1 3 2 6 13 81 26 12 5 4
+ Cannot insert 6, can't have duplicates!
+ Cannot insert 2, can't have duplicates!
+ 2 was found in the Tree.
+ 60 was not found in in tree.
+ Deleted 2 from the tree.
+ 2 was not found in in tree.
+ Cannot delete 27 since value is not tree.
+ Deleted 12 from the tree.
+ Tree preorder:  4 3 1 5 26 13 6 81
+ Tree inorder:  1 3 4 5 6 13 26 81
+ Tree postorder:  1 3 6 13 81 26 5 4
